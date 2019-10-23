@@ -2,7 +2,7 @@
 
 **Central repo for keeping all the projects of ML-AI community.** You can discuss your ML-AI projects with professors and Industry experts in this [group](https://www.linkedin.com/groups/10494159/).
 
-![Screenshot](ml-ai.gif)
+![Screenshot](ml-ai-community.png)
 
 Contributing
 ============
