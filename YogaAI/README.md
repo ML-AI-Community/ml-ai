@@ -19,11 +19,11 @@ You'll need have the following installed:
 
 # Install
 
-* git clone https://www.github.com/roshancode/YogaAI 
+* `git clone https://www.github.com/roshancode/YogaAI`
 
-* cd YogaAI 
+* `cd YogaAI` 
 
-* ./install.sh
+* `./install.sh`
 
 # Run
 After you've trained the classifier on your samples, you should have a pickled model in the `./models` directory. 
