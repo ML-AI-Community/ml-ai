@@ -55,4 +55,4 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
 
 ### Area#4: RoshanML-AI
     - Roshan Lamichhane's Machine Learning Projects 
-      Official Github Account: https://github.com/roshancode
+Official Github Account: https://github.com/roshancode
