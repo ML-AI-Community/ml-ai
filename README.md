@@ -3,7 +3,7 @@
 **Central repository for keeping all the projects of ML-Ai community.** You can discuss your ML-Ai projects with professors and Industry experts in this [group](https://www.linkedin.com/groups/10494159/). 
 ML-Ai community works towards bridging the gap between **_`academic and industry`_**, **_`beginner and experts`_**. 
 
-![Screenshot](ml-ai-community.png)
+![Screenshot](ml-ai-community-intro.gif)
 
 
 ## How to explain ML-Ai community to your GrandMa?
@@ -17,9 +17,7 @@ a lot time to make use of academic research. Few of the times, academic research
 multiple constraints like worth in the market/marker demand etc but many time we are not able to utilise the full potential 
 because of less common platforms between industry researchers and academic researchers. _**`ML-Ai is designed to work as bridge between
 academic researchers and industry.`**_
-- **Making People Smart** ML-Ai community will have people from beginner to experts and objective will be to cross learn and lead to better 
-future. _**`ML-Ai Experts will Mentors`**_ to other people in the community. Mentor will help others their projects, doing code reviews helping them 
-with right researcher papers. You can assume Mentor will play a role of a professor. 
+- **Making People Smart** ML-Ai community will have people from beginner to experts and objective will be to cross learn and lead to better future. _**`ML-Ai Experts will act like a Professor`**_ to other people in the community. Professors will help others in their projects, doing code reviews helping them with right researcher papers. 
 
 
 Contributing
@@ -31,16 +29,15 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
 
 ## FAQs
 
-**Question:** Who can I start a project under ML-Ai community? 
+**Question:** How can I start a project under ML-Ai community? 
 **Answer:** Please submit your project proposal at https://www.ml-ai.in/projects, your professor from ML-Ai community will reach out to you.
 
 **Question:** Can I make my existing project part of ML-Ai? 
-**Answer:** Yes, you can. We would love to evaluate your work. 
+**Answer:** Yes, you can. We would love to evaluate your work and add as part of this open source project.
 
 **Question:** How to join as Professor? 
-**Answer:** If you love sharing your knowledge, you are more then welcome to reach out to us(https://www.ml-ai.in/) 
+**Answer:** If you love sharing your knowledge, you are more than welcome to reach out to us(https://www.ml-ai.in/) 
 
-## Repo structure :  
 
 ## Repo structure :  
 
