@@ -18,7 +18,9 @@ brew install mongodb --with-openssl
 brew services start mongodb
 
 mongod --dbpath (Your Porject Folder)/Data/DB
+
 `git clone https://github.com/roshancode/RoshanStock/`
+
 When you storing stock data with mongodb mode, you may meet too many open files problem, try the following codes in command line:
 
     sysctl -w kern.maxfiles=20480 (or whatever number you choose)
