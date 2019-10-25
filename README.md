@@ -54,5 +54,7 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
     - UseCase#2 : Spam Or Ham classification 
 
 ### Area#4: RoshanML-AI
-    - Roshan Lamichhane's Machine Learning Projects 
+
+Roshan Lamichhane's Machine Learning Projects 
+
 Official Github Account: https://github.com/roshancode
