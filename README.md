@@ -46,9 +46,9 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
 
 | Problem Statement  | Status | Links | Tags| 
 |:------------- | :------------- |:-------------|:-------------|
-| Credit Card Fraud Detection | COMPLETED | | fraud_detection, nlp|
-| spam-or-ham-classification  | COMPLETED | | fraud_detection, nlp|
-| object-detection-realtime   | COMPLETED | |computer_vision, tensor_flow|
-| crowd-counting              | ONGOING | |computer_vision, tensor_flow|
+| Credit Card Fraud Detection | COMPLETED |[link](https://github.com/ML-AI-Community/ml-ai/tree/master/credit-card-fraud-detection) | fraud_detection, nlp|
+| spam-or-ham-classification  | COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/spam-or-ham-classification) | fraud_detection, nlp|
+| object-detection-realtime   | COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/object-detection-realtime)|computer_vision, tensor_flow|
+| crowd-counting              | ONGOING | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/crowd-counting) |computer_vision, tensor_flow|
 
 
