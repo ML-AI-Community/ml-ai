@@ -15,4 +15,3 @@ Objective of this exercise is to help beginner's understanding how to approach a
 
 ## References
 - Thanks Kaggle for the [comptition](https://www.kaggle.com/c/titanic/data) and Kaggle notebok for a great learning experience
-
