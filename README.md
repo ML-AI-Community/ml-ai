@@ -49,6 +49,6 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
 | Credit Card Fraud Detection | COMPLETED | | fraud_detection, nlp|
 | spam-or-ham-classification  | COMPLETED | | fraud_detection, nlp|
 | object-detection-realtime   | COMPLETED | |computer_vision, tensor_flow|
-| crowd-counting              | COMPLETED | |computer_vision, tensor_flow|
+| crowd-counting              | ONGOING | |computer_vision, tensor_flow|
 
 
