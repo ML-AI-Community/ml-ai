@@ -50,5 +50,5 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
 | spam-or-ham-classification  | COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/spam-or-ham-classification) | fraud_detection, nlp|
 | object-detection-realtime   | COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/object-detection-realtime)|computer_vision, tensor_flow|
 | crowd-counting              | ONGOING | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/crowd-counting) |computer_vision, tensor_flow|
-
+|titanic_prediction_challenge| COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/titanic_prediction_challenge) |computer_vision, tensor_flow|
 
