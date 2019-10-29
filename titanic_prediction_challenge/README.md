@@ -2,7 +2,8 @@
 
 https://www.kaggle.com/c/titanic/overview
 
-[medium article](https://medium.com/@KtheAgent/play-with-data-2a5db35b279c)
+Recommended for beginner to go through this [medium article](https://medium.com/@KtheAgent/play-with-data-2a5db35b279c) to understand the context well. 
+Objective of this exercise is to help beginner's understanding how to approach a binary classification problem.
 
 ## Data Set:
 
