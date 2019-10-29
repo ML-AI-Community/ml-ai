@@ -11,3 +11,4 @@
 /.project
 /.pydevproject
 package-lock.json
+*.idea

@@ -29,26 +29,26 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
 
 ## FAQs
 
-**Question:** How can I start a project under ML-Ai community? 
+**Question:** How can I start a project under ML-Ai community?
+ 
 **Answer:** Please submit your project proposal at https://www.ml-ai.in/projects, your professor from ML-Ai community will reach out to you.
 
-**Question:** Can I make my existing project part of ML-Ai? 
+**Question:** Can I make my existing project part of ML-Ai?
+
 **Answer:** Yes, you can. We would love to evaluate your work and add as part of this open source project.
 
-**Question:** How to join as Professor? 
+**Question:** How to join as Professor?
+
 **Answer:** If you love sharing your knowledge, you are more than welcome to reach out to us(https://www.ml-ai.in/) 
 
 
-## Repo structure :  
+## 10,000 Foot View
 
-### Area#1: Computer Vision
-    - UseCase#1 : Get started with Object Detection [Exploring/Experimenting Tensor Flow APIs to convert my car to intelligent car like Tesla]
-    - UseCase#2 Counting the actions in a movie/clip/realtime [In-Progress]
- 
-### Area#2: Fraud Detection
-    - UseCase#1 : Credit Card Fraud Detection
-    - UseCase#2 : Spam Or Ham classification 
-    
-### Area#3: Natural Language Processing 
-    - UseCase#1 : Credit Card Fraud Detection
-    - UseCase#2 : Spam Or Ham classification 
+| Problem Statement  | Status | Links | Tags| 
+|:------------- | :------------- |:-------------|:-------------|
+| Credit Card Fraud Detection | COMPLETED | | fraud_detection, nlp|
+| spam-or-ham-classification  | COMPLETED | | fraud_detection, nlp|
+| object-detection-realtime   | COMPLETED | |computer_vision, tensor_flow|
+| crowd-counting              | COMPLETED | |computer_vision, tensor_flow|
+
+
