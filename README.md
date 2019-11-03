@@ -45,11 +45,12 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
 
 ## 10,000 Foot View
 
-| Problem Statement  | Status | Links | Tags| Students | Professors |
+| Problem Statement  | Status | Links | Tags| Students | Mentor/Professors |
 |:------------- | :------------- |:-------------|:-------------|:-------------|:-------------|
-| Credit Card Fraud Detection | COMPLETED |[link](https://github.com/ML-AI-Community/ml-ai/tree/master/credit-card-fraud-detection) | fraud_detection, nlp||[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
-| spam-or-ham-classification  | COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/spam-or-ham-classification) | fraud_detection, nlp||[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
-| object-detection-realtime   | COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/object-detection-realtime)|computer_vision, tensor_flow|||
-| crowd-counting              | ONGOING | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/crowd-counting) |computer_vision, tensor_flow|||
-|titanic_prediction_challenge| COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/titanic_prediction_challenge) |computer_vision, tensor_flow|||
+| Credit Card Fraud Detection | COMPLETED |[link](https://github.com/ML-AI-Community/ml-ai/tree/master/credit-card-fraud-detection) | fraud_detection, nlp|[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/) |[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
+| spam-or-ham-classification  | COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/spam-or-ham-classification) | fraud_detection, nlp| [Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
+| object-detection-realtime   | COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/object-detection-realtime)|computer_vision, tensor_flow| [Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/) |[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
+| crowd-counting              | ONGOING | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/crowd-counting) |computer_vision, tensor_flow| [Vinay Pandey](https://www.linkedin.com/in/vinaykumarpandey/) |[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
+|titanic_prediction_challenge| COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/titanic_prediction_challenge) |computer_vision, tensor_flow| [Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)__|[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
+|fake-news-detection| ONGOING | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/fake-news-detection) |nlp,cnn,multi classification,research | [Ayushi Tiwari](https://www.linkedin.com/in/ayushi-tiwari-37169350/)|[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
 
