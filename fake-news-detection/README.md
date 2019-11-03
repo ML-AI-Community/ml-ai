@@ -1,16 +1,16 @@
 # Fake News Detection
 
 Text classification is always been a hot topic among machine learners. We started this mini project called 
-"fake-news-detection", where objective was to predict the target class given a news.
+"fake-news-detection", where objective was to predict the target class given a news article.
 
-Target Classes:
+**Target Classes:**
 
     ['false', 'half-true', 'mostly-true', 'true', 'barely-true',
            'pants-fire']
          
 
-In internet we have a multiple data sets available on kaggle and other places but pretty much most of the them deal with 
-binary classification (target class with two labels). Durring this search we got to know about **`Liar, Liar Pants on Fire`** 
+We have multiple data sets available on kaggle and other places but pretty much most of the them deal with 
+binary classification (target class with two labels). During this search we got to know about **`Liar, Liar Pants on Fire`** 
 dataset, which is collected by **`Politifact.com`**
 
 
@@ -33,12 +33,12 @@ Data Set: “Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News 
       bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
-Approach from the Paper:
+### Approach from the Paper:
 
 ![Screenshot](fake-news-prediction-cnn.png)
 
-After reading this research paper and they author has approached the problem motivated us to changing our objective of 
-this project to help people approach a text multi class classification problem.
+_After reading this research paper and the way author has approached the problem motivated us to changing our objective of 
+this project to help people approach a text multi class classification problem._
 
 After a lot of brainstorm and great articles on internet, we reached to step wise mind map.
 
@@ -95,7 +95,7 @@ There are two ways to approach the problem on modelling front.
    
 ## References 
 
-Below articles are highly recommended!
+Below articles are highly recommended, we have used below articles learning in fake-news-detection project.
 
 https://towardsdatascience.com/a-beginners-guide-to-word-embedding-with-gensim-word2vec-model-5970fa56cc92
 
@@ -106,5 +106,3 @@ https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/
 https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74
 
 https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/
-
-
