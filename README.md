@@ -48,8 +48,7 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
 | Problem Statement  | Status | Links | Tags| Students | Mentor/Professors |
 |:------------- | :------------- |:-------------|:-------------|:-------------|:-------------|
 
-| Credit Loan Status Prediction | ONGOING |[link](https://github.com/ML-AI-Community/ml-ai/tree/master/credit-loan-prediction) | binary classification|[Kshatresh Saini](https://www.linkedin.com/in/kshatresh-saini-1b774a199/) |[Kshatresh Saini]
-
+| Credit Loan Status Prediction | ONGOING |[link](https://github.com/ML-AI-Community/ml-ai/tree/master/credit-loan-prediction) | binary classification|[Kshatresh Saini](https://www.linkedin.com/in/kshatresh-saini-1b774a199/)|[Kshatresh Saini]
 | Credit Card Fraud Detection | COMPLETED |[link](https://github.com/ML-AI-Community/ml-ai/tree/master/credit-card-fraud-detection) | fraud_detection, nlp|[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/) |[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
 | spam-or-ham-classification  | COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/spam-or-ham-classification) | fraud_detection, nlp| [Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
 | object-detection-realtime   | COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/object-detection-realtime)|computer_vision, tensor_flow| [Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/) |[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
