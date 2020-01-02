@@ -32,7 +32,7 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
 
 **Question:** How can I start a project under ML-Ai community?
  
-**Answer:** Please submit your project proposal at https://www.ml-ai.in/projects, your professor from ML-Ai community will reach out to you.
+**Answer:** Please submit your project proposal at https://www.ml-ai.in, your professor from ML-Ai community will reach out to you.
 
 **Question:** Can I make my existing project part of ML-Ai?
 
