@@ -1,0 +1,2 @@
+We can download the data in delimted format from iowa govt site
+https://data.iowa.gov/Sales-Distribution/2017-Iowa-Liquor-Sales/7gyd-nsfh
