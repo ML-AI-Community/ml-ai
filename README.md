@@ -54,4 +54,6 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
 | crowd-counting              | ONGOING | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/crowd-counting) |computer_vision, tensor_flow| [Vinay Pandey](https://www.linkedin.com/in/vinaykumarpandey/) |[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
 |titanic_prediction_challenge| COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/titanic_prediction_challenge) |computer_vision, tensor_flow| [Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
 |fake-news-detection| ONGOING | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/fake-news-detection) |nlp,cnn,multi classification,research | [Ayushi Tiwari](https://www.linkedin.com/in/ayushi-tiwari-37169350/)|[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
+|churn-in-telecom-sector| COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/churn-in-telecom-sector) |classification | [Navendu](https://www.linkedin.com/in/navendu-shekhar-32a4765b/)||
+|credit-score| COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/credit-score) |regression | [Navendu](https://www.linkedin.com/in/navendu-shekhar-32a4765b/)||
 
