@@ -1,2 +1,0 @@
-This project was done on the kaggle
-Link to this project: https://www.kaggle.com/navendush/churn-in-telecom-sector-multiple-models
