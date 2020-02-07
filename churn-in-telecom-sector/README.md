@@ -14,3 +14,4 @@ Inspiration
 To explore this type of models and learn more about the subject.
 
 Link to this project: https://www.kaggle.com/navendush/churn-in-telecom-sector-multiple-models
+My linkedin profile: https://www.linkedin.com/in/navendu-shekhar-32a4765b/

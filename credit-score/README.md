@@ -11,3 +11,5 @@ The goal of this competition is to build a model that borrowers can use to help 
 Historical data are provided on 250,000 borrowers and the prize pool is  5,000( 3,000 for first,  1,500forsecondand 500 for third).
 
 Link to this project: https://www.kaggle.com/navendush/credit-score
+
+My Linkedin profile: https://www.linkedin.com/in/navendu-shekhar-32a4765b/
