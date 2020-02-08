@@ -1,3 +1,5 @@
+# Anomaly Detection 
+
 Outlier detection has been used for centuries to detect and, where appropriate, remove anomalous observations from data. Outliers arise due to mechanical
 faults, changes in system behaviour, fraudulent behaviour, human error, instrument
 error or simply through natural deviations in populations. Their detection can
@@ -17,6 +19,13 @@ The IQR is defined as the difference between the 75% (Q3) percentile and the 25%
 
 
 **Use Case:**
- Finding Anomaly in the yearly sales dataset.
 
-**Dataset**: https://data.iowa.gov/api/views/7gyd-nsfh/rows.csv?accessType=DOWNLOAD
+    Finding Anomaly in the yearly sales dataset.
+
+**Dataset**: 
+
+    https://data.iowa.gov/api/views/7gyd-nsfh/rows.csv?accessType=DOWNLOAD
+
+### Author
+
+https://www.linkedin.com/in/brahmanandsingh/
