@@ -17,6 +17,6 @@ The IQR is defined as the difference between the 75% (Q3) percentile and the 25%
 
 
 **Use Case:**
- Finding Anomalyin the yearly sales dataset.
+ Finding Anomaly in the yearly sales dataset.
 
 **Dataset**: https://data.iowa.gov/api/views/7gyd-nsfh/rows.csv?accessType=DOWNLOAD
