@@ -1,3 +1,0 @@
-We can download the data in delimted format from iowa govt site
-This dataset is for full year sales for 2017
-https://data.iowa.gov/api/views/7gyd-nsfh/rows.csv?accessType=DOWNLOAD
