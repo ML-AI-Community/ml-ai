@@ -56,4 +56,6 @@ We love contributions! Check out the [Contribution guide](https://github.com/Kri
 |fake-news-detection| ONGOING | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/fake-news-detection) |nlp,cnn,multi classification,research | [Ayushi Tiwari](https://www.linkedin.com/in/ayushi-tiwari-37169350/)|[Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)|
 |churn-in-telecom-sector| COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/churn-in-telecom-sector) |classification | [Navendu](https://www.linkedin.com/in/navendu-shekhar-32a4765b/)||
 |credit-score| COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/credit-score) |regression | [Navendu](https://www.linkedin.com/in/navendu-shekhar-32a4765b/)||
+|content-based-image-retrieval-system| ONGOING | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/content-based-image-retrieval-system) | | [Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/)||
+|anomaly-detection| COMPLETED | [link](https://github.com/ML-AI-Community/ml-ai/tree/master/anomaly-detection) | hive,iqr| [Brahmanand Singh](https://www.linkedin.com/in/brahmanandsingh/)|
 
