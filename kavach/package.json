@@ -1,0 +1,39 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.10.0",
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs": "^1.7.4",
+    "@tensorflow/tfjs-react-native": "^0.2.3",
+    "expo": "~37.0.3",
+    "expo-camera": "^8.2.0",
+    "expo-constants": "^9.0.0",
+    "expo-gl": "^8.1.0",
+    "expo-gl-cpp": "^8.1.0",
+    "expo-image-picker": "^8.1.0",
+    "expo-permissions": "^8.1.0",
+    "jpeg-js": "^0.4.0",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
+    "react-native-camera-tflite": "0.0.3",
+    "react-native-fs": "^2.16.6",
+    "react-native-image-picker": "^2.3.1",
+    "react-native-unimodules": "^0.9.1",
+    "react-native-web": "^0.11.7",
+    "rn-nodeify": "^10.2.0",
+    "tfjs-react-native-expo-fix": "^0.2.3"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "~8.1.0",
+    "@babel/core": "^7.8.6"
+  },
+  "private": true
+}

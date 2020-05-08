@@ -1,0 +1,17 @@
+node_modules/**/*
+babel.config.js
+kavach.keystore
+*keystore
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store

@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "kavach",
+    "slug": "kavach",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/tfjs.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.mlaicommunity.kavach",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.mlaicommunity.kavach",
+      "versionCode": 1
+    }
+  }
+}
