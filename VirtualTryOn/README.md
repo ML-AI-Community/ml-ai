@@ -34,19 +34,20 @@ This problem can be approached in multiple ways:
 This is Virtual system to try different cloths on a 2D images to see the fit of the cloths. We have devloped three model to get the final out put of the cloths been tried on.
 >Steps are named as Shape the cloth to the model, Stitch the cloth to model and Refine the cloth which is stitched to the model.
 >Steps to run the models
->>Execute Stage1.ipynb and generate the .pth model file
->>
+>Execute Stage1.ipynb and generate the .pth model file
+
     parser.add_argument("stage", default="Shape", help='Shape, Stitch, Refine')
->>Execute Stage2.ipynb and generate the .pth model file
->>
+>Execute Stage2.ipynb and generate the .pth model file
+
     parser.add_argument("stage", default="Stitch", help='Shape, Stitch, Refine')
->>Execute Stage3.ipynb and generate the .pth model file
->>
+>Execute Stage3.ipynb and generate the .pth model file
+
     parser.add_argument("stage", default="Refine", help='Shape, Stitch, Refine')
     
->> once you have all the model files you will need to run them in sequence to get the final look of the models
->>Execute TryonFinalStage.ipynb
+> once you have all the model files you will need to run them in sequence to get the final look of the models
+> Execute TryonFinalStage.ipynb
     Setting to exectue this model
+    
     def get_opt():
         parser = argparse.ArgumentParser()
         parser.add_argument("dataroot", default="data")
