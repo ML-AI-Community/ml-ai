@@ -35,10 +35,13 @@ This is Virtual system to try different cloths on a 2D images to see the fit of 
 >Steps are named as Shape the cloth to the model, Stitch the cloth to model and Refine the cloth which is stitched to the model.
 >Steps to run the models
 >>Execute Stage1.ipynb and generate the .pth model file
+>>
     parser.add_argument("stage", default="Shape", help='Shape, Stitch, Refine')
 >>Execute Stage2.ipynb and generate the .pth model file
+>>
     parser.add_argument("stage", default="Stitch", help='Shape, Stitch, Refine')
 >>Execute Stage3.ipynb and generate the .pth model file
+>>
     parser.add_argument("stage", default="Refine", help='Shape, Stitch, Refine')
     
 >> once you have all the model files you will need to run them in sequence to get the final look of the models
